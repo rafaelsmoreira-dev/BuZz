@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Rafael ... and I'm a ..., from ....</h2>
+<p align="left">Olá, eu sou o Rafael!</p>
 
 ###
 
@@ -6,12 +6,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="47" height="35" alt="visualstudio logo"  />
-</div>
+<p align="left">Sou formado em Engenharia Elétrica e atualmente estou iniciando minha carreira como desenvolvedor. Tenho uma base sólida em raciocínio lógico, resolução de problemas e conhecimentos técnicos adquiridos na engenharia, que agora aplico no desenvolvimento de software. Estou em constante aprendizado, buscando me aprimorar em linguagens de programação, boas práticas de desenvolvimento e tecnologias atuais, com foco em construir soluções eficientes e inovadoras.</p>
 
 ###
 
